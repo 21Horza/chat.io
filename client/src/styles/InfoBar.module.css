@@ -1,0 +1,39 @@
+.infoBar {
+    width: 100%;
+    display: flex;
+    background-color: rgb(38, 132, 255);
+    border-radius: 20px 20px 0 0;
+}
+
+.leftIcon, .rightIcon {
+    color: #fff;
+    font-size: 30px;
+}
+
+.leftIcon {
+    margin-left: 10px;
+}
+
+.rightIcon {
+    margin-right: 10px;
+}
+
+.roomName {
+    font-weight: 800;
+    margin: 10px 10px;
+}
+
+.rightInnerContainer {
+    margin-left: auto;
+}
+
+.leftInnerContainer, .rightInnerContainer {
+    display: flex;
+    align-items: center;
+}
+
+.rightInnerContainer img {
+    margin: 10px 10px;
+    height: 30px;
+    width: 30px;
+}

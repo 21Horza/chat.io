@@ -1,0 +1,15 @@
+.container {
+    border: .5px solid gray;
+    margin: 100px auto;
+    box-shadow: 10px 10px 10px #000;
+    border-radius: 20px;
+    height: 70vh;
+    padding-bottom:50px;
+    position: relative;
+}
+
+.outerContainer {
+    height: 500px;
+    width: 60%;
+    margin: 0 auto;
+}

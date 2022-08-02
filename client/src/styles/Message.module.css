@@ -1,0 +1,27 @@
+.messageContainer {
+    color: #fff;
+    display: flex;
+    margin: 10px;
+    gap: 10px;
+    font-weight: 500;
+}
+
+.messageContainer .user {
+    margin-right: 20px;
+}
+
+.user {
+    font-size: 20px;
+    color: rgb(3, 137, 247);
+    font-weight: 800;
+}
+
+.admin {
+    font-size: 20px;
+    color: crimson;
+    font-weight: 800;
+}
+
+.messageBox {
+    font-size: 20px;
+}
